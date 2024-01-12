@@ -1,5 +1,6 @@
 # FoodApp
 
+A culinary Web Application which lets users create an account and upload and browse recipes and articles; using Bootstrap and Angular for frontend, ExpressJs, NodeJs and MongoDB for the backend.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
